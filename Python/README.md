@@ -8,6 +8,8 @@ Format: -[Program name](name of the file)
 
 -[Arithmetic Progression](arithmetic.py)
 
+-[Evil Number](Evil_Number.py)
+
 -[AVL Tree](avl-tree.py)
 
 -[Automorphic Number](automorphic.py)
@@ -26,6 +28,8 @@ Format: -[Program name](name of the file)
 
 -[Check whether a number is an armstrong number](armstrong_number.py)
 
+-[Collatz Sequence](Collatz_sequence.py)
+
 -[Circular Doubly Linked List](Circular_Doubly_Linked_List.py)
 
 -[Circular Queue](CircularQueue.py)
@@ -34,9 +38,13 @@ Format: -[Program name](name of the file)
 
 -[Circular Singly Linked List](Circular_Singly_Linked_List.py)
 
+-[Collatz Sequence](Collatz_sequence.py)
+
 -[Comb Sort](comb_sort.py)
 
 -[Doubly Linked List](Doubly_Linked_List.py)
+
+-[Equation of a Line](EquationOfLines.py)
 
 -[Fibonacci Series](Fibonacci.py)
 
@@ -57,6 +65,8 @@ Format: -[Program name](name of the file)
 -[Find an element in a sorted matrix](find_element_in_sorted_matrix.py)
 
 -[Greatest Common divisor](gcd.py)
+
+-[Happy Number](HappyNumber.py)
 
 -[Heap Sort](Heap_sort.py)
 
@@ -94,6 +104,8 @@ Format: -[Program name](name of the file)
 
 -[Pancake Sort](PancakeSort.py)
 
+-[Pangram String](Pangram_in_python.py)
+
 -[Permutations and Combinations](Permutations_And_Combinations.py)
 
 -[Queue](Queue.py)
@@ -113,6 +125,10 @@ Format: -[Program name](name of the file)
 -[Shell Sort](shell_sort.py)
 
 -[Sieve of Eratosthenes](Sieve_of_Eratosthenes.py)
+
+-[Singly Linked List](SinglyLinkedList.py)
+
+-[Linear Search](Linear_Search.py)
 
 -[Sleep Sort](SleepSort.py)
 
@@ -155,3 +171,5 @@ Format: -[Program name](name of the file)
 -[Kruskal's Algorithm](Kruskals.py)
 
 -[Unique Number From A Set of Numbers repeated twice except unique number](unique_number_repeated_twice_except_unique_number.py)
+
+-[All Hamiltonian Cycles/Paths](all_hamiltonian_cycles.py)

@@ -15,7 +15,7 @@
 
 <br/>
 
-**YOU CANNOT CREATE A PR DIRECTLY. YOU NEED TO BE ASSIGNED AN ISSUE. IF THE ISSUE DOES NOT EXIST, CREATE ONE, ASK FOR IT IN YOUR PREFERRED PROGRAMMING LANGUAGE AND WAIT FOR IT TO BE ASSIGNED TO YOU. NOT FOLLOWING THIS WILL BE CONSIDERED A VIOLATION AND YOUR PR WILL BE MARKED INVALID.**
+**YOU CANNOT CREATE A PR DIRECTLY. YOU NEED TO BE ASSIGNED AN ISSUE. IF THE ISSUE DOES NOT EXIST, CREATE ONE, ASK FOR IT IN YOUR PREFERRED PROGRAMMING LANGUAGE AND WAIT FOR IT TO BE ASSIGNED TO YOU. NOT FOLLOWING THIS WILL BE CONSIDERED A VIOLATION AND YOUR PR WILL BE MARKED INVALID. WHILE CREATING AN ISSUE, PLEASE FOLLOW THE FORMAT, ELSE, THE ISSUE WILL BE CLOSED.**
 
 <br/>
 
@@ -27,11 +27,9 @@
 - **All PRs must be made from a Branch. Create a separate branch for every Issue you are working upon and then create a PR.**
 - **In your code file, add (Inside a multiline comment) Sample Input and Output at the end of the file along with Time and Space Complexity.**
 - Every time you add a file via a Pull Request also update the README.md file for that particular language in **Alphabetical Order** in the same PR. You'll find a README.md file in each language folder.
-- **Plagiarism is highly discouraged and a plagiarized PR won't be accepted at all.**
+- **Plagiarism is highly discouraged and a plagiarized PR won't be accepted at all and will be marked as spam.**
 - **PR should be created within a week of you being assigned to it.**
 - **At no point of time, you can claim more than 4 issues i.e. you can have at max 4 working issues, for this repository, at any point of time.**
-
-### You can find us on [Telegram ](https://t.me/joinchat/H9iFuRyDNgL2FRgCrt_0aA). Join the telegram channel - DS-Algo-Point to reach out to us.
 
 <br/>
 
@@ -49,6 +47,9 @@
 ## Don't know how to create a PR? Refer this: [Steps to create a PR](STEPS_FOR_PR.md)
 
 ## Maintainers for this project (Refer [this](MAINTAINERS.md) for Instructions specific to Maintainers)
+- Sukriti Shah - @sukritishah15
+
+### Past Maintainers for this project
 - Sukriti Shah - @sukritishah15
 - Aditi Khemka - @aditik03
 - Gunisha Chaturvedi - @gunisha30
@@ -74,7 +75,7 @@
 
 <div align="center">
   <h1>In association with</h1>
-  <h3>ACM-W MUST STUDENT CHAPTER</h3>
+  <h3>ACM-W MUST STUDENT CHAPTER (Sept - Oct 2020)</h3>
   <img src="img/ACM_MUST_Logo.png"/>
 </div>
 
